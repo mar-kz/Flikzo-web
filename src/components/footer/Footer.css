@@ -1,0 +1,55 @@
+.flikzo__footer {
+  width: 100%;
+  background-image: url("../../assets/images/Bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.flikzo__copyright {
+  color: var(--color-white);
+}
+
+.flikzo__news-letter p {
+  width: 100%;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: -0.03em;
+}
+
+.flikzo__news-letter {
+  border-bottom: 1px solid var(--color-highlight);
+}
+
+#basic-addon3 {
+  background: var(--color-dark);
+  color: var(--color-white);
+}
+
+.input-group .form-control {
+  outline: none;
+  box-shadow: none;
+}
+.footer__socialmedia {
+  gap: var(--gap-10);
+}
+
+.footer__link-section-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  color: var(--color-white);
+  border-bottom: 1px solid var(--color-highlight);
+}
+
+.underline {
+  text-decoration: undereline;
+}
+
+.flikzo__footer-links {
+  border-bottom: 1px solid var(--color-highlight);
+}
+
+.flikzo__support-links a {
+  color: var(--color-white);
+}

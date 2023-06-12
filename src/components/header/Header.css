@@ -1,0 +1,99 @@
+.header__top-strip {
+  background: url("../../assets/images/upperStrip.svg");
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.header__uppper_strip {
+  background: var(--color-white);
+  border-bottom: 1px solid var(--color-primary);
+}
+
+.header__uppper_strip .logo {
+  color: var(--color-primary);
+}
+
+.logo__pic {
+  color: var(--color-red);
+}
+
+.header__uppper_strip h2 {
+  font-weight: 800;
+}
+
+.header__upper-links p {
+  font-size: 14px;
+  color: var(--color-text);
+}
+
+#basic-addon2 {
+  background-color: var(--color-white);
+  color: var(--color-primary);
+}
+
+.input-group .form-control:focus {
+  box-shadow: none;
+  color: var(--color-primary);
+}
+
+.flikzo__whishlist,
+.flikzo__user,
+.flikzo__cart,
+.flikzo__menu {
+  color: var(--color-text);
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-15 {
+  gap: 15px;
+}
+
+.gap-30 {
+  gap: 30px;
+}
+
+.header__lower_strip {
+  background: var(--color-primary);
+  font-size: 14px;
+}
+.header__lower_strip .menu-dropdown {
+  border-right: 1px solid var(--color-primary);
+  width: 250px;
+}
+.header__lower_strip .menu-links a {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  color: var(--color-white);
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.header__lower_strip .menu-bottom button {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  color: var(--color-white);
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  box-shadow: none;
+}
+.header__lower_strip .dropdown-menu {
+  background: var(--color-primary);
+  color: var(--color-white);
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  width: 250px;
+}
+
+.header__lower_strip .dropdown-item {
+  padding: 10px;
+  margin-bottom: 2px;
+  border-bottom: 0.5px solid #f4f4f4;
+}
+.header__lower_strip .dropdown-item:hover {
+  color: var(--color-primary) !important;
+}

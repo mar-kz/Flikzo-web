@@ -1,0 +1,87 @@
+.main__banner-content-text {
+  top: 15%;
+  left: 5%;
+}
+
+.main__banner-content-text h4 {
+  font-size: 14px;
+  line-height: 16px;
+  color: var(--color-red);
+}
+
+.main__banner-content-text h5 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+}
+.main__banner-content-text p {
+  font-size: 16px;
+  color: var(--color-highlight);
+  line-height: 18px;
+}
+
+.small__banner-content-text {
+  top: 20%;
+  left: 10%;
+}
+
+.small__banner-content-text h4 {
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--color-red);
+}
+
+.small__banner-content-text h5 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+}
+.small__banner-content-text p {
+  font-size: 16px;
+  color: var(--color-highlight);
+  line-height: 18px;
+}
+.home-wrapper-2 {
+  background: var(--color-secondary);
+}
+
+.flikzo__services {
+  gap: var(--gap-30);
+}
+
+.flikzo__services img {
+  width: 100px;
+  height: 120px;
+}
+.flikzo__services h6 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+}
+
+.flikzo__services p {
+  color: var(--color-highlight);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.flikzo__categories {
+  background: var(--color-white);
+  margin-top: -50px;
+  box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45),
+    25px 0 20px -20px rgba(0, 0, 0, 0.45),
+    0px 25px 20px -20px rgba(0, 0, 0, 0.45),
+    -25px 0 20px -20px rgba(0, 0, 0, 0.45);
+}
+
+.flikzo__category-details {
+  margin-top: -30px;
+}
+
+.marquee-wrapper {
+  background: var(--color-white);
+}
